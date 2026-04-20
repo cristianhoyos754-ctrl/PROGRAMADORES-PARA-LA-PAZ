@@ -9,4 +9,4 @@ herramientas como Git debemos tener responsabilidades porque es una plataforma q
 el trabajo colaborativo, organizado y transparente. 
 Y por último dejare una frase que fue la que mas me llamo la atención en mis clases: 
 “El internet es útil y mucho, pero debemos tener precaución en todo lo que abrimos y vemos, 
-porque si no lo manejamos con precaución, nos podemos estrellas”
+porque si no lo manejamos con precaución, nos podemos estrellar” 
