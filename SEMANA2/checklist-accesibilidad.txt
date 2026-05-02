@@ -5,16 +5,17 @@ Fecha: 01-05-2026
 Nombre de la rama: 
 
 1. ¿El formulario tiene un título claro?
-Respuesta:
+Respuesta: Claro que sí, me parece que es muy claro y conciso para definir el fin de la participación.
 
 2. ¿El formulario explica para qué se usará la información?
-Respuesta:
+Respuesta: si, en la parte de abajo del titulo se menciona que se ira a utilizar solo con fines de participacion
+y organización comunitaria.
 
 3. ¿Cada campo tiene un label o etiqueta visible?
 Respuesta:
 
 4. ¿El lenguaje usado es sencillo y comprensible?
-Respuesta:
+Respuesta: 
 
 5. ¿El formulario evita pedir datos innecesarios?
 Respuesta:
@@ -23,13 +24,16 @@ Respuesta:
 Respuesta:
 
 7. ¿El formulario incluye una casilla o mensaje de consentimiento?
-Respuesta:
+Respuesta: Claro que sí, esta opcion es muy importantes tanto para quien nesecita la informacion como 
+para quien lo esta diligenciando ya que con eso permite una transparencia y claridad para que se va a 
+utilizar esa información que no estan brindando.
 
 8. ¿El botón de envío tiene un texto claro?
-Respuesta:
+Respuesta: si, es muy sencillo y llamativo para poder hacer el envio de la información solicitada.
 
 9. ¿La página se puede leer con facilidad?
-Respuesta:
+Respuesta: Si, es muy clara con la información que solicita y lo mas importantes es una informacion 
+que permite una participación comunitaria.
 
 10. ¿Qué mejorarías del formulario para que más personas puedan usarlo?
 Respuesta:
